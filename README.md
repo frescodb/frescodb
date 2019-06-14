@@ -16,9 +16,9 @@
 - [Contribute](#contribute)
 - [Read More](#read-more)
 
-# What is YugaByte DB?
+# What is frescoDB?
 
-YugaByte DB is a high-performance, cloud-native distributed SQL database. Here are the salient points about it:
+frescoDB is a clone of YugaByte DB, the only difference is its name. YugaByte DB is a high-performance, cloud-native distributed SQL database. Here are the salient points about it:
 * Has a pluggable query layer, and supports two APIs:
     * **[YSQL](https://docs.yugabyte.com/latest/api/ysql/)** (PostgreSQL compatible)
     * **[YCQL](https://docs.yugabyte.com/latest/api/ycql/)** (Apache Cassandra Query Language roots with document and indexing support)
@@ -44,7 +44,7 @@ Cannot find what you are looking for? Have a question? Please post your question
 
 # Build Apps
 
-YugaByte DB supports a number of languages and client drivers. Below is a brief list.
+frescoDB supports a number of languages and client drivers. Below is a brief list.
 
 | Language  | ORM | YSQL Drivers | YCQL Drivers |
 | --------- | --- | ------------ | ------------ |
